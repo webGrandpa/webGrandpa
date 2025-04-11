@@ -1,6 +1,6 @@
-# 💫 About Me:
+#  About Me:
 <a href="https://github.com/webGrandpa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Giorgi+Khiladze,+a+passionate+Developer+%26+TeamLead!&font=Montserrat&font_size=28&color=36BCF7&width=750&pause=500&loop=true" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Giorgi+Khiladze,+a+passionate+Developer!&font=Montserrat&font_size=28&color=36BCF7&width=750&pause=500&loop=true" alt="Typing SVG">
   </a>
   <br>
 <br>
