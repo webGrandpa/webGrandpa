@@ -8,7 +8,6 @@
 
 <div align="center">
   <h3>🚀 Transforming from Student to Master</h3>
-  
   <p>
     Currently working as a <b>Mentor at <a href="https://10x.edu.ge/" style="color:#6f42c1;">10x Academy</a></b> while pushing my limits as a Software Engineering student. 
     <br>
@@ -42,9 +41,9 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0KUL6F4fXfQ9Do8M/giphy.gif" width="25" height="25" alt="Comm"> <b>Communication:</b> Expert at bridging the gap between technical complexity and student understanding.<br>
-  <img src="https://media.giphy.com/media/3o7bu3hxaeq19kt2XC/giphy.gif" width="25" height="25" alt="Time"> <b>Management:</b> Orchestrating workflows using <b>Jira</b> & <b>Agile</b> methodologies.<br>
-  <img src="https://media.giphy.com/media/Y6FSAUniPg0Fi/giphy.gif" width="25" height="25" alt="Scrum"> <b>Agile Enthusiast:</b> I don't just write code; I manage the lifecycle. (Future Scrum Master? Maybe! 😜)
+  <img src="https://media.giphy.com/media/l0KUL6F4fXfQ9Do8M/giphy.gif" width="25" height="25" alt="Comm"> <b>Communication:</b> Bridging technical complexity and student understanding.<br>
+  <img src="https://media.giphy.com/media/3o7bu3hxaeq19kt2XC/giphy.gif" width="25" height="25" alt="Time"> <b>Management:</b> Workflows via <b>Jira</b> & <b>Agile</b> methodologies.<br>
+  <img src="https://media.giphy.com/media/Y6FSAUniPg0Fi/giphy.gif" width="25" height="25" alt="Scrum"> <b>Agile Enthusiast:</b> I manage the lifecycle. (Future Scrum Master? Maybe! 😜)
 </div>
 
 <br>
@@ -72,11 +71,11 @@
 <h3 align="center">📊 The Data</h3>
 <div align="center">
   <a href="https://github.com/webGrandpa">
-  <img src="https://github-readme-stats.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
   </a>
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
 </div>
 
 <div align="center">
