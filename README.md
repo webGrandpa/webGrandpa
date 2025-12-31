@@ -75,7 +75,9 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
   </a>
   <br>
-  <img src="https://streak-stats.demolab.com?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+  <div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=webGrandpa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 </div>
 
 <div align="center">
