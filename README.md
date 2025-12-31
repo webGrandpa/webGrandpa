@@ -71,11 +71,11 @@
 <h3 align="center">📊 The Data</h3>
 <div align="center">
   <a href="https://github.com/webGrandpa">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
 </div>
 
 <div align="center">
