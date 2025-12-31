@@ -1,37 +1,104 @@
-#  About Me:
-<a href="https://github.com/webGrandpa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Giorgi+Khiladze,+a+passionate+Developer!&font=Montserrat&font_size=28&color=36BCF7&width=750&pause=500&loop=true" alt="Typing SVG">
+<div align="center">
+  <a href="https://github.com/webGrandpa">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Giorgi+Khiladze!;Mentor+%40+10x+Academy;Future+Lecturer+(2026+Goal);Frontend+Wizard+Turning+Full-Stack;Engineering+Student&font=Montserrat&font_size=26&color=36BCF7&width=600&height=60&pause=1000&center=true&vCenter=true&random=false&loop=true" alt="Typing SVG">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Transforming from Student to Master</h3>
+  
+  <p>
+    Currently working as a <b>Mentor at <a href="https://10x.edu.ge/" style="color:#6f42c1;">10x Academy</a></b> while pushing my limits as a Software Engineering student. 
+    <br>
+    My coding philosophy is simple: <i>"For every concept taught, I explore tenfold."</i>
+  </p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+         <b>🎯 THE 2026 MISSION</b>
+      </td>
+      <td align="center" width="50%">
+        <b>⚡ CURRENT FOCUS</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        To evolve from Mentor to <b>Lecturer</b> at 10x Academy.<br>
+        <i>Structuring knowledge to teach the next generation.</i>
+      </td>
+      <td align="center">
+        Mastering <b>React, Next.js & TypeScript</b>.<br>
+        Diving deep into <b>PostgreSQL</b> & Backend Architecture.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0KUL6F4fXfQ9Do8M/giphy.gif" width="25" height="25" alt="Comm"> <b>Communication:</b> Expert at bridging the gap between technical complexity and student understanding.<br>
+  <img src="https://media.giphy.com/media/3o7bu3hxaeq19kt2XC/giphy.gif" width="25" height="25" alt="Time"> <b>Management:</b> Orchestrating workflows using <b>Jira</b> & <b>Agile</b> methodologies.<br>
+  <img src="https://media.giphy.com/media/Y6FSAUniPg0Fi/giphy.gif" width="25" height="25" alt="Scrum"> <b>Agile Enthusiast:</b> I don't just write code; I manage the lifecycle. (Future Scrum Master? Maybe! 😜)
+</div>
+
+<br>
+
+<div align="center">
+  🌍 <b>Languages</b><br>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ge.svg" height="16" alt="Georgian"> <b>Native</b> | 
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" height="16" alt="Russian"> <b>C2</b> | 
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" height="16" alt="English"> <b>B2 (Active Learner)</b> | 
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" height="16" alt="Turkish"> <b>A2</b>
+</div>
+
+<br>
+<hr>
+
+<h3 align="center">💻 The Arsenal</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,postgres,git,github,vscode,jira&perline=7&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">📊 The Data</h3>
+<div align="center">
+  <a href="https://github.com/webGrandpa">
+  <img src="https://github-readme-stats.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
   </a>
   <br>
-<br>
-🚀 Leading teams in <b style="color:#58a6ff;">two dynamic projects</b> while diving deep into <a href="https://10x.edu.ge/" style="color:#6f42c1;">10x Academy's</a> Full-Stack program (HTML ➡️ Backend). My learning extends <span style="text-decoration:underline;">far beyond</span> the curriculum – for every concept, I explore tenfold! I orchestrate project workflows and team synergy using <b style="color:#007bff;">Jira</b>. <img src="https://media.giphy.com/media/j9nPXj1tlnxS8/giphy.gif" width="30" height="30" align="center" alt="Gears Animation">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=webGrandpa&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+</div>
 
-👨‍💼 An active and influential voice on <a href="https://www.linkedin.com/in/giorgi-khiladze-55bab334a/" style="color:#0a66c2;">LinkedIn</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21oY2J1Z3V5ZzZ1c3JpY2Rsc3QyYm56Z3Q0aXN0b3F2Z251b3B1eA/giphy.gif" width="30" height="30" align="center" alt="LinkedIn Animation"> <br> 🗣️ **High Communication Skills** <img src="https://media.giphy.com/media/l0KUL6F4fXfQ9Do8M/giphy.gif" width="30" height="30" align="center" alt="Communication Animation"> for seamless team collaboration. <br> ⏱️ Master of **Time Management** <img src="https://media.giphy.com/media/3o7bu3hxaeq19kt2XC/giphy.gif" width="30" height="30" align="center" alt="Time Management Animation"> for efficient learning and execution. <br> 🌱 My Superpower: <b style="color:#28a745;">Unlimited Learning!</b> 🧠 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0BtS/giphy.gif" width="30" height="30" align="center" alt="Brain Animation">
-
-<br>
-
-🌍 <b>Languages:</b> <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" height="20" alt="English"> English (B2) | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" height="20" alt="Russian"> Русский (C2) | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" height="20" alt="Turkish"> Türkçe (A2) | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ge.svg" height="20" alt="Georgian"> ქართული (Native)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webGrandpa&theme=tokyo-night" width="100%"/>
+</div>
 
 <br>
+<hr>
 
-😂 Lately, I'm so into <b>Scrum</b> and <b>Agile</b> <img src="https://media.giphy.com/media/Y6FSAUniPg0Fi/giphy.gif" width="30" height="30" align="center" alt="Agile Animation">, I'm starting to think my next evolution will be a fully-fledged Scrum Master! 😜 <img src="https://media.giphy.com/media/xT0xezQGU5xCDxJ6yk/giphy.gif" width="30" height="30" align="center" alt="Scrum Master Animation">
-
-<br>
-<img src="https://media.giphy.com/media/du3J34yNFSU1i/giphy.gif" width="30" height="30" align="center" alt="Learning Animation">📚 Always exploring, always growing! ✨ <img src="https://media.giphy.com/media/du3J34yNFSU1i/giphy.gif" width="30" height="30" align="center" alt="Learning Animation">
-<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goga.khilo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goga-khilo-55bab334a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goga.khilo@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=webGrandpa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=webGrandpa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=webGrandpa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=webGrandpa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/giorgi-khiladze-55bab334a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/goga.khilo">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:goga.khilo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <br><br>
+  
+  <i>"I am mentoring to learn, and learning to lead."</i>
+</div>
