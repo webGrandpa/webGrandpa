@@ -1,105 +1,94 @@
 <div align="center">
-  <a href="https://github.com/webGrandpa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Giorgi+Khiladze!;Mentor+%40+10x+Academy;Future+Lecturer+(2026+Goal);Frontend+Wizard+Turning+Full-Stack;Engineering+Student&font=Montserrat&font_size=26&color=36BCF7&width=600&height=60&pause=1000&center=true&vCenter=true&random=false&loop=true" alt="Typing SVG">
-  </a>
+
+# Giorgi Khiladze
+
+<a href="https://github.com/webGrandpa">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%C2%B7+Batumi%2C+Georgia;Building+SportGen+%E2%80%94+multi-sport+SaaS;Teaching+JavaScript+%26+React;Shaders%2C+scroll+scenes+%26+clean+architecture&font=Montserrat&font_size=22&color=C9A878&width=600&height=50&pause=1200&center=true&vCenter=true&loop=true" alt="Frontend Developer · Batumi, Georgia" />
+</a>
+
 </div>
 
-<br>
+## About
+
+Frontend developer building complete products — from GLSL shaders and scroll-driven scenes to Postgres schemas and multi-tenant SaaS architecture.
+
+- 🎓 **Programming Instructor @ [10x Academy](https://10x.edu.ge/) (Tenixi)** — teaching JavaScript & React. *"For every concept taught, I explore tenfold."*
+- ⚽ Building **[SportGen](https://sportgen.org/)** — a multi-sport SaaS ecosystem of 8 apps, starting with Georgian football
+- 🎨 Design included — every platform ships with in-house UI/UX, its own admin panel and a management engine behind it
+- 🛢️ Before software: 6 years as an operator at **Batumi Oil Terminal** (2020–2026) — complex systems where failure is not an option. That discipline came with me.
+
+## Projects
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[SportGen](https://sportgen.org/)** | Multi-sport SaaS ecosystem — 8 apps (4 web + 4 mobile) covering scouting (Scout PRO), federation management (FMS), CRM, and coach & referee tools, built around youth-sports training standards. Ships a 30-criteria player evaluation framework with age-phase weighting and RAE correction. | `Next.js` `React Native` `TypeScript` `PostgreSQL` `Turborepo` |
+| **[overtap](https://play.google.com/store/apps/details?id=com.giorgikhiladze.overtapme&hl=en)** | Mobile game published on Google Play — multiplayer, duel and competitive bill-splitting modes. | `React Native` `Firebase` |
+| **[DENSI](https://dental-clinic-densi.vercel.app/)** | Dental clinic, end to end: a cinematic scroll-driven site (300-frame hero animation) and a management system with patient CRM & appointment booking. | `React` `GSAP` `Next.js` `Supabase` |
+| **[Fit Factory](https://fitfactory-webgrandpas-projects.vercel.app/ka)** | Management platform for a sports complex, fronted by a custom WebGL shader hero. | `React` `WebGL` `GLSL` |
+| **[FincoTime](https://fincotime.vercel.app/)** | Bilingual workforce management — tasks & notifications with live translation. | `Next.js` `Supabase` `Google Translate API` |
+| **Booking SaaS** *(in progress)* | Multi-tenant booking engine — standalone availability core, embeddable widget (script-tag → iframe → postMessage), DB-level double-booking prevention. Built with a team of three. | `TypeScript` `PostgreSQL` `RLS` |
+| **lifeOS · Task Tracker** *(in progress)* | Personal life system + habit tracker with flexible repeat intervals, styled in neobrutalism / neumorphism. | `React Native` `Firebase` |
+| **OTP Gateway** *(in progress)* | Self-hosted SMS gateway on a spare Android phone — OTP verification without paid SMS APIs. | `Node.js` `Android` |
+
+## How I work
+
+- **Monorepo by default** — `pnpm` + `Turborepo`; SportGen alone spans an 8-app ecosystem in one workspace
+- **AI-assisted engineering** — codebases onboarded for Claude Code (`CLAUDE.md` router, conventions & architecture docs), plus a nightly automated senior code-review bot sweeping every app for duplication, decomposition issues and convention drift
+- **Docs before code** — build briefs, architecture decisions and handoff documents come first
+
+## Stack
 
 <div align="center">
-  <h3>🚀 Transforming from Student to Master</h3>
-  <p>
-    Currently working as a <b>Mentor at <a href="https://10x.edu.ge/" style="color:#6f42c1;">10x Academy</a></b> while pushing my limits as a Software Engineering student. 
-    <br>
-    My coding philosophy is simple: <i>"For every concept taught, I explore tenfold."</i>
-  </p>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-         <b>🎯 THE 2026 MISSION</b>
-      </td>
-      <td align="center" width="50%">
-        <b>⚡ CURRENT FOCUS</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        To evolve from Mentor to <b>Lecturer</b> at 10x Academy.<br>
-        <i>Structuring knowledge to teach the next generation.</i>
-      </td>
-      <td align="center">
-        Mastering <b>React, Next.js & TypeScript</b>.<br>
-        Diving deep into <b>PostgreSQL</b> & Backend Architecture.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0KUL6F4fXfQ9Do8M/giphy.gif" width="25" height="25" alt="Comm"> <b>Communication:</b> Bridging technical complexity and student understanding.<br>
-  <img src="https://media.giphy.com/media/3o7bu3hxaeq19kt2XC/giphy.gif" width="25" height="25" alt="Time"> <b>Management:</b> Workflows via <b>Jira</b> & <b>Agile</b> methodologies.<br>
-  <img src="https://media.giphy.com/media/Y6FSAUniPg0Fi/giphy.gif" width="25" height="25" alt="Scrum"> <b>Agile Enthusiast:</b> I manage the lifecycle. (Future Scrum Master? Maybe! 😜)
-</div>
-
-<br>
-
-<div align="center">
-  🌍 <b>Languages</b><br>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ge.svg" height="16" alt="Georgian"> <b>Native</b> | 
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" height="16" alt="Russian"> <b>C2</b> | 
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" height="16" alt="English"> <b>B2 (Active Learner)</b> | 
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" height="16" alt="Turkish"> <b>A2</b>
-</div>
-
-<br>
-<hr>
-
-<h3 align="center">💻 The Arsenal</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,postgres,git,github,vscode,jira&perline=7&theme=dark" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">📊 The Data</h3>
-<div align="center">
-  <a href="https://github.com/webGrandpa">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="Stats" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,vite,threejs&theme=dark" />
   <br>
-  <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=webGrandpa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase,prisma,pnpm,git,ae&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=flat-square&logo=turborepo&logoColor=EF4444" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/GSAP-0E100F?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logoColor=white" alt="Remotion" />
+  <img src="https://img.shields.io/badge/Claude_Code-C9A878?style=flat-square&logo=anthropic&logoColor=black" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </div>
-</div>
+
+## Experience
+
+- **Programming Instructor** · [10x Academy](https://10x.edu.ge/) (Tenixi LLC) — JavaScript & React *(current)*
+- **Mentor** · 10x Academy — earlier role, same team
+- **Operator** · Batumi Oil Terminal · 2020–2026
+
+## Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webGrandpa&theme=tokyo-night" width="100%"/>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ge.svg" height="14" alt="Georgian"> <b>Georgian</b> — native&nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" height="14" alt="Russian"> <b>Russian</b> — C2&nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" height="14" alt="English"> <b>English</b> — B2&nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" height="14" alt="Turkish"> <b>Turkish</b> — A2
 </div>
 
-<br>
-<hr>
+## Stats
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webGrandpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165" alt="Top languages" />
+</div>
+
+## Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/giorgi-khiladze-55bab334a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/goga.khilo">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:goga.khilo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  
+
   <br><br>
-  
+
   <i>"I am mentoring to learn, and learning to lead."</i>
 </div>
