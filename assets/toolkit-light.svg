@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="444" viewBox="0 0 1200 444" role="img" aria-labelledby="title desc">
+<title id="title">Toolkit, grouped by layer</title><desc id="desc">INTERFACE: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Sass, Vite. MOTION &amp; GRAPHICS: GSAP, Framer Motion, Lenis, Three.js, WebGL · GLSL, Remotion, After Effects. DATA &amp; BACKEND: Node.js, PostgreSQL · RLS, Supabase, Firebase, Prisma. MOBILE &amp; TOOLING: React Native, pnpm, Turborepo, Git, Jira, Claude Code.</desc>
+<style>@font-face{font-family:'wg-mono';src:url(data:font/woff2;base64,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) format('woff2')}.b{opacity:.25;animation:bp 4.6s ease-in-out infinite}@keyframes bp{0%,100%{opacity:.25}10%{opacity:1}28%{opacity:.25}}</style>
+<defs><clipPath id="pc1"><rect x="1" y="1" width="1198" height="442" rx="21"/></clipPath><radialGradient id="gl2" cx="600" cy="470" r="640" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8E6B38" stop-opacity="0.094"/><stop offset="1" stop-color="#8E6B38" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="1199" height="443" rx="22" fill="#F6F1E8" stroke="#E2D9C9"/>
+<rect x="1" y="1" width="1198" height="442" rx="21" fill="url(#gl2)"/>
+<rect x="16.5" y="16.5" width="1167" height="411" rx="3" fill="none" stroke="#E2D9C9"/>
+<path d="M10 16.5H22M16.5 10V22M1177 16.5H1189M1183.5 10V22M10 427.5H22M16.5 421V433M1177 427.5H1189M1183.5 421V433" stroke="#8E6B38" stroke-opacity=".85"/>
+<text x="52" y="80" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" xml:space="preserve"><tspan fill="#8E6B38">01  </tspan><tspan fill="#4C463D">INTERFACE</tspan></text>
+<path d="M52 98.5H287" stroke="#CBBEA8"/>
+<rect class="b" x="52" y="131" width="7" height="7" fill="#8E6B38" style="animation-delay:0.00s"/>
+<text x="72" y="140" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">TypeScript</text>
+<rect class="b" x="52" y="167" width="7" height="7" fill="#8E6B38" style="animation-delay:0.11s"/>
+<text x="72" y="176" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">JavaScript</text>
+<rect class="b" x="52" y="203" width="7" height="7" fill="#8E6B38" style="animation-delay:0.22s"/>
+<text x="72" y="212" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">React</text>
+<rect class="b" x="52" y="239" width="7" height="7" fill="#8E6B38" style="animation-delay:0.33s"/>
+<text x="72" y="248" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Next.js</text>
+<rect class="b" x="52" y="275" width="7" height="7" fill="#8E6B38" style="animation-delay:0.44s"/>
+<text x="72" y="284" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Tailwind CSS</text>
+<rect class="b" x="52" y="311" width="7" height="7" fill="#8E6B38" style="animation-delay:0.55s"/>
+<text x="72" y="320" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Sass</text>
+<rect class="b" x="52" y="347" width="7" height="7" fill="#8E6B38" style="animation-delay:0.66s"/>
+<text x="72" y="356" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Vite</text>
+<text x="327" y="80" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" xml:space="preserve"><tspan fill="#8E6B38">02  </tspan><tspan fill="#4C463D">MOTION &amp; GRAPHICS</tspan></text>
+<path d="M327 98.5H562" stroke="#CBBEA8"/>
+<rect class="b" x="327" y="131" width="7" height="7" fill="#8E6B38" style="animation-delay:0.77s"/>
+<text x="347" y="140" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">GSAP</text>
+<rect class="b" x="327" y="167" width="7" height="7" fill="#8E6B38" style="animation-delay:0.88s"/>
+<text x="347" y="176" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Framer Motion</text>
+<rect class="b" x="327" y="203" width="7" height="7" fill="#8E6B38" style="animation-delay:0.99s"/>
+<text x="347" y="212" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Lenis</text>
+<rect class="b" x="327" y="239" width="7" height="7" fill="#8E6B38" style="animation-delay:1.10s"/>
+<text x="347" y="248" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Three.js</text>
+<rect class="b" x="327" y="275" width="7" height="7" fill="#8E6B38" style="animation-delay:1.21s"/>
+<text x="347" y="284" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">WebGL · GLSL</text>
+<rect class="b" x="327" y="311" width="7" height="7" fill="#8E6B38" style="animation-delay:1.32s"/>
+<text x="347" y="320" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Remotion</text>
+<rect class="b" x="327" y="347" width="7" height="7" fill="#8E6B38" style="animation-delay:1.43s"/>
+<text x="347" y="356" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">After Effects</text>
+<text x="602" y="80" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" xml:space="preserve"><tspan fill="#8E6B38">03  </tspan><tspan fill="#4C463D">DATA &amp; BACKEND</tspan></text>
+<path d="M602 98.5H837" stroke="#CBBEA8"/>
+<rect class="b" x="602" y="131" width="7" height="7" fill="#8E6B38" style="animation-delay:1.54s"/>
+<text x="622" y="140" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Node.js</text>
+<rect class="b" x="602" y="167" width="7" height="7" fill="#8E6B38" style="animation-delay:1.65s"/>
+<text x="622" y="176" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">PostgreSQL · RLS</text>
+<rect class="b" x="602" y="203" width="7" height="7" fill="#8E6B38" style="animation-delay:1.76s"/>
+<text x="622" y="212" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Supabase</text>
+<rect class="b" x="602" y="239" width="7" height="7" fill="#8E6B38" style="animation-delay:1.87s"/>
+<text x="622" y="248" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Firebase</text>
+<rect class="b" x="602" y="275" width="7" height="7" fill="#8E6B38" style="animation-delay:1.98s"/>
+<text x="622" y="284" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Prisma</text>
+<text x="877" y="80" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" xml:space="preserve"><tspan fill="#8E6B38">04  </tspan><tspan fill="#4C463D">MOBILE &amp; TOOLING</tspan></text>
+<path d="M877 98.5H1112" stroke="#CBBEA8"/>
+<rect class="b" x="877" y="131" width="7" height="7" fill="#8E6B38" style="animation-delay:2.09s"/>
+<text x="897" y="140" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">React Native</text>
+<rect class="b" x="877" y="167" width="7" height="7" fill="#8E6B38" style="animation-delay:2.20s"/>
+<text x="897" y="176" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">pnpm</text>
+<rect class="b" x="877" y="203" width="7" height="7" fill="#8E6B38" style="animation-delay:2.31s"/>
+<text x="897" y="212" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Turborepo</text>
+<rect class="b" x="877" y="239" width="7" height="7" fill="#8E6B38" style="animation-delay:2.42s"/>
+<text x="897" y="248" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Git</text>
+<rect class="b" x="877" y="275" width="7" height="7" fill="#8E6B38" style="animation-delay:2.53s"/>
+<text x="897" y="284" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Jira</text>
+<rect class="b" x="877" y="311" width="7" height="7" fill="#8E6B38" style="animation-delay:2.64s"/>
+<text x="897" y="320" font-family="wg-mono, Menlo, Consolas, monospace" font-size="15.5" fill="#161411">Claude Code</text>
+<path d="M52 382.5H1148" stroke="#E2D9C9"/>
+<text x="52" y="410" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" fill="#857D71" letter-spacing="2.2">25 TOOLS · 4 LAYERS · ONE WORKSPACE</text>
+<text x="1148" y="410" font-family="wg-mono, Menlo, Consolas, monospace" font-size="11" fill="#8E6B38" text-anchor="end" letter-spacing="1">pnpm + Turborepo by default</text>
+</svg>
