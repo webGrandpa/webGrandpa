@@ -23,11 +23,6 @@
   </picture>
 </p>
 
-- 🎓 **Programming Instructor @ [10x Academy](https://10x.edu.ge/) (Tenixi)** — teaching JavaScript & React. *"For every concept taught, I explore tenfold."*
-- 🎨 Designed and built **[Artisser](https://www.artisser.io/)** and **[FixMob](https://www.fixmob.ge/)** end to end — from visual design to frontend
-- ⚽ Building **[SportGen](https://sportgen.org/)** — a multi-sport SaaS ecosystem of 8 apps, starting with Georgian football
-- 🧩 Design included — every platform ships with in-house UI/UX, its own admin panel and a management engine behind it
-- 🛢️ Before software: 6 years as an operator at **Batumi Oil Terminal** (2020–2026) — complex systems where failure is not an option. That discipline came with me.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg">
